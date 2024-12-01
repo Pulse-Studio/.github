@@ -21,7 +21,7 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/SAKS.png" width="100px;" alt="SAKS"/><br />
+      <img src="https://github.com/Saksilia.png" width="100px;" alt="SAKS"/><br />
       <b>SAKS</b><br />
       🎨 Гейм-дизайнер, моделирование
     </td>
