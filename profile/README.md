@@ -26,7 +26,7 @@
       🎨 Гейм-дизайнер, моделирование
     </td>
     <td align="center">
-      <img src="https://github.com/Shifty.png" width="100px;" alt="Shifty"/><br />
+      <img src="https://github.com/ShiftyX1.png" width="100px;" alt="Shifty"/><br />
       <b>Shifty</b><br />
       🏗️ Архитектура, сцены
     </td>
