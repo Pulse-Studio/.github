@@ -36,7 +36,7 @@
       🎯 UI/UX дизайн
     </td>
     <td align="center">
-      <img src="https://github.com/Zhuk.png" width="100px;" alt="Zhuk"/><br />
+      <img src="https://github.com/clw.png" width="100px;" alt="Zhuk"/><br />
       <b>Zhuk</b><br />
       💻 Геймплей механики
     </td>
