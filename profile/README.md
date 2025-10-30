@@ -1,85 +1,26 @@
 <div align="center">
-  
-# 🎮 Pulse Studio
-
-### Создаем уникальные игровые впечатления
-
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=pulse-studio.pulse-studio)
-[![Discord](https://img.shields.io/badge/Discord-Join%20Us-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.gg/pulsestudio)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/PulseStudioGames)
-
+Pulse Studio
+Independent Game Development & Open-Source Innovation
 </div>
-
-## 🌟 О нас
-
-Добро пожаловать в **Pulse Studio** — команду увлеченных разработчиков игр, посвятивших себя созданию уникальных и захватывающих игровых проектов. Мы объединяем инновационный дизайн с передовыми технологиями, чтобы воплощать наши творческие замыслы в жизнь.
-
-В Pulse Studio мы верим в синергию креативности и технических знаний. Наша разносторонняя команда специализируется на различных аспектах разработки игр, что позволяет нам подходить к проектам комплексно и достигать высококачественных результатов.
-
-## 👥 Наша команда
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://github.com/Saksilia.png" width="100px;" alt="SAKS"/><br />
-      <b>SAKS</b><br />
-      🎨 Гейм-дизайнер, моделирование
-    </td>
-    <td align="center">
-      <img src="https://github.com/ShiftyX1.png" width="100px;" alt="Shifty"/><br />
-      <b>Shifty</b><br />
-      🏗️ Архитектура, сцены
-    </td>
-    <td align="center">
-      <img src="https://github.com/clw.png" width="100px;" alt="clw"/><br />
-      <b>clw</b><br />
-      🎯 UI/UX дизайн
-    </td>
-    <td align="center">
-      <img src="https://github.com/ZhiktorViktor.png" width="100px;" alt="Zhuk"/><br />
-      <b>Zhuk</b><br />
-      💻 Геймплей механики
-    </td>
-    <td align="center">
-      <img src="https://github.com/Svinopesik.png" width="100px;" alt="Svinopesik"/><br />
-      <b>Svinopesik</b><br />
-      🎥 Графическое программирование
-    </td>
-  </tr>
-</table>
-
-## 🛠️ Текущий проект
-
-### Dice _(в разработке)_
-
+About
+Pulse Studio is an independent team of developers and designers dedicated to crafting distinctive interactive experiences.
+We combine creative vision with solid engineering to deliver games and tools that are both technically sound and artistically driven.
+This GitHub organization serves as a home for our open-source projects, internal development frameworks, and selected tools built for both our own production pipeline and the broader developer community.
+Team
+<table> <tr> <td align="center"> <img src="https://github.com/ShiftyX1.png" width="100px;" alt="Shifty"/><br /> <b>Shifty</b><br /> Developer </td> <td align="center"> <img src="https://github.com/ZhiktorViktor.png" width="100px;" alt="Zhuk"/><br /> <b>Zhuk</b><br /> QA / Testing </td> </tr> </table>
+Current Focus
+Dice (in development)
 <div align="center">
-  
-![Godot Engine](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
-![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
-
 </div>
-
-Рогалик в стиле **Balatro**, где вместо карт используются **игральные кости**. Комбинируйте результаты бросков для достижения своих целей и погрузитесь в уникальный мир стратегии и случайности.
-
-## 📞 Связаться с нами
-
+A roguelike inspired by Balatro, reimagined around dice mechanics instead of cards.
+Players build strategies through dice rolls, balancing luck, planning, and risk across an evolving game world.
+Contact
 <div align="center">
-  
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/Pulse-Studio)
-[![Discord](https://img.shields.io/badge/Discord-Join-7289DA?style=for-the-badge&logo=discord)](https://discord.gg/pulsestudio)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:pulseteam@example.com)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/PulseStudioGames)
-
 </div>
-
-## 📄 Присоединяйтесь к нам
-
-Мы всегда открыты для талантливых людей, которые разделяют нашу страсть к созданию игр. Если вы заинтересованы в сотрудничестве или у вас есть идеи, которыми вы хотите поделиться, свяжитесь с нами!
-
+Collaboration
+Pulse Studio is open to collaboration with developers and creators who share our commitment to thoughtful design and open-source principles.
+If you’re interested in contributing or partnering on a project, reach out to us through the contact links above.
 <div align="center">
-
----
-
-*© 2023 Pulse Studio. Все права защищены.*
-
+© 2025 Pulse Studio. All rights reserved.
+This organization and its repositories may include both proprietary and open-source works under their respective licenses.
 </div>
