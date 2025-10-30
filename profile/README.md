@@ -13,9 +13,7 @@
 
 ## About
 
-**Pulse Studio** is an independent team of developers and designers dedicated to crafting distinctive interactive experiences.
-
-We combine creative vision with solid engineering to deliver games and tools that are both technically sound and artistically driven.
+**Pulse Studio** is an independent team of developers dedicated to crafting distinctive interactive experiences.
 
 This GitHub organization serves as a home for our:
 - Open-source projects
