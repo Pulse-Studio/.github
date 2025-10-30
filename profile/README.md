@@ -45,31 +45,6 @@ This GitHub organization serves as a home for our:
   </tr>
 </table>
 
----
-
-## Current Focus
-
-### **Dice** (in development)
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Status-In%20Development-yellow.svg" alt="Status"/>
-  <img src="https://img.shields.io/badge/Genre-Roguelike-purple.svg" alt="Genre"/>
-</div>
-
-<br>
-
-A roguelike inspired by **Balatro**, reimagined around **dice mechanics** instead of cards.
-
-Players build strategies through dice rolls, balancing **luck**, **planning**, and **risk** across an evolving game world.
-
-#### Key Features
-- Deep dice-based mechanics
-- Roguelike progression system
-- Strategic decision-making
-- Evolving game world
-
----
-
 ## Contact
 
 <div align="center">
