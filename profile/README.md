@@ -22,29 +22,6 @@ This GitHub organization serves as a home for our:
 
 ---
 
-## Team
-
-<table align="center">
-  <tr>
-    <td align="center" width="200">
-      <a href="https://github.com/ShiftyX1">
-        <img src="https://github.com/ShiftyX1.png" width="120px;" alt="Shifty"/><br />
-        <sub><b>Shifty</b></sub>
-      </a>
-      <br />
-      <sub>Developer</sub>
-    </td>
-    <td align="center" width="200">
-      <a href="https://github.com/ZhiktorViktor">
-        <img src="https://github.com/ZhiktorViktor.png" width="120px;" alt="Zhuk"/><br />
-        <sub><b>Zhuk</b></sub>
-      </a>
-      <br />
-      <sub>QA / Testing</sub>
-    </td>
-  </tr>
-</table>
-
 ## Contact
 
 <div align="center">
